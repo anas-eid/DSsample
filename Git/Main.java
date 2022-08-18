@@ -63,8 +63,12 @@ public class Main
     public void edit () {
         //edit function
     }
+    
     public Automobile search (char[] keyword){
         Automobile result = new Automobile();
         return result;
+    }
+    public void insert (){
+        //insert logic
     }
 }

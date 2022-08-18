@@ -54,4 +54,13 @@ public class Main
                 break;
         }
     }
+    
+    public void add (int engineCapacity) {
+        Automobile auto = new Automobile();
+        
+    }
+    
+    public void edit () {
+        //edit function
+    }
 }
